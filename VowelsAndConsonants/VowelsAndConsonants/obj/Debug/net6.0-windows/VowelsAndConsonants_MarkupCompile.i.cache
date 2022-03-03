@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Eric\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0-windows\
+C:\Users\Eric\Source\Repos\clonetest\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0-windows\
 VowelsAndConsonants
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Eric\source\repos\VowelsAndConsonants\VowelsAndConsonants\App.xaml
+C:\Users\Eric\Source\Repos\clonetest\VowelsAndConsonants\VowelsAndConsonants\App.xaml
 11407045341
 
 52057204636
 1941142463650
 MainWindow.xaml;
 
-True
+False
 

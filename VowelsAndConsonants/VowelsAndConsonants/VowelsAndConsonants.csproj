@@ -7,4 +7,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="bird.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bird.jpg" />
+  </ItemGroup>
+
 </Project>
